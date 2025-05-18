@@ -3,6 +3,7 @@
 # 🧠 Brain Tumor Detection Using Transfer Learning
 
 Welcome to the Brain Tumor Detection project! This repository contains a deep learning-based solution for detecting brain tumors from MRI images. The goal of this project is to assist medical professionals in early and accurate tumor diagnosis using state-of-the-art computer vision techniques.
+![image alt](https://github.com/AManan651/public_ML-Parkinson_model-/blob/main/parkinson-disease-symptoms-infographic_1308-48394.jpg?raw=true)
 ## Project Overview
 
 Brain tumor detection is a critical task in medical image analysis. This project leverages Convolutional Neural Networks (CNNs) and transfer learning to automatically classify MRI scans as tumor or non-tumor.
