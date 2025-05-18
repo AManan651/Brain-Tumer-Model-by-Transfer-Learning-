@@ -21,7 +21,7 @@ Brain tumor detection is a critical task in medical image analysis. This project
 
 📁 [Download Dataset]( https://drive.google.com/drive/folders/1vn6gFFzLShuHpN_zVczN1TRkyi17-NAa?usp=drive_link ) 
 
-- Classes: `Yes` (Tumor) and `No` (No Tumor). If it is no than what is the class of tumer with their Confidence Prediction 
+- Classes: `Yes` (Tumor) and `No` (No Tumor). If it is no than what is the class of tumer ['glioma','meningioma','notumor','pituitary'] with their Confidence Prediction 
 
 ![image alt](https://github.com/AManan651/public_ML-Parkinson_model-/blob/main/parkinson-disease-symptoms-infographic_1308-48394.jpg?raw=true) <br>
 
