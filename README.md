@@ -12,7 +12,7 @@ Brain tumor detection is a critical task in medical image analysis. This project
 - 🧠 Model: Custom CNN or pre-trained model (e.g., VGG16)
 - 🧪 Evaluation: Accuracy, Precision, Recall, F1-Score, ROC,
 - ![image alt](https://github.com/AManan651/Brain-Tumer-Model-by-Transfer-Learning-/blob/main/Accruacy.png?raw=true)
-- ![image alt](?raw=true)
+- ![image alt](https://github.com/AManan651/Brain-Tumer-Model-by-Transfer-Learning-/blob/main/ROC.png?raw=true)
 ## 🛠️ Tech Stack
 
 - **Python 3.8+**
