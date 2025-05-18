@@ -23,6 +23,8 @@ Brain tumor detection is a critical task in medical image analysis. This project
 
 - Classes: `Yes` (Tumor) and `No` (No Tumor). If it is no than what is the class of tumer ['glioma','meningioma','notumor','pituitary'] with their Confidence Prediction. <br>
 ![image alt](https://github.com/AManan651/Brain-Tumer-Model-by-Transfer-Learning-/blob/main/Screenshot%202025-05-18%20205355.jpg?raw=true)
+## Author Name
+# Abdullah Mohammed,CUET'20 EEE. (abdullahanan611@gmail.com)
 
   
     
